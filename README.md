@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/JUnit%205-grey?logo=JUnit5)
 ![](https://img.shields.io/badge/Maven-grey?logo=ApacheMaven&logoColor=CB2138)
 
-### ⚛️ *MolView*.*net*, a 3D molecule visualization web app
+### ⚛️ *MolView*, a 3D molecule visualization web app
 [![](https://img.shields.io/badge/molview-purple?logo=GitHub)](https://github.com/brayden-meyer/molview)
 ![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-grey?logo=CSS3)
