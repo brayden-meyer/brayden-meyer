@@ -12,7 +12,7 @@
 ### ⚛️ *MolView*, a 3D molecule visualization web app
 [![](https://img.shields.io/badge/molview-purple?logo=GitHub)](https://github.com/brayden-meyer/molview)
 ![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
-![](https://img.shields.io/badge/CSS-grey?logo=CSS3)
+![](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
 ![](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript)
 ![](https://img.shields.io/badge/React-grey?logo=React)
@@ -31,6 +31,19 @@
 ![](https://img.shields.io/badge/MongoDB-grey?logo=MongoDB)
 ![](https://img.shields.io/badge/Proxmox-grey?logo=Proxmox)
 
+### 📷 Self-hosted photo library with AI image search
+[![](https://img.shields.io/badge/photos-ff69b4?logo=GitHub)](https://github.com/brayden-meyer/photos)
+![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
+![](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=1572B6)
+![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
+![](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript)
+![](https://img.shields.io/badge/React-grey?logo=React)
+![](https://img.shields.io/badge/Node.js-grey?logo=Node.js)
+![](https://img.shields.io/badge/Weaviate-grey?logo=Weaviate)
+![](https://img.shields.io/badge/GraphQL-grey?logo=GraphQL&logoColor=E10098)
+![](https://img.shields.io/badge/Apollo-grey?logo=ApolloGraphQL&logoColor=311C87)
+![](https://img.shields.io/badge/Vite-grey?logo=Vite&logoColor=9499FF)
+
 ### 🐍 *Python*, a clone of Google’s Snake game in Python
 [![](https://img.shields.io/badge/snake-green?logo=GitHub)](https://github.com/brayden-meyer/snake)
 ![](https://img.shields.io/badge/Python-grey?logo=Python&logoColor=4B8BBE)
@@ -40,7 +53,7 @@
 [![](https://img.shields.io/badge/live%20demo-white?logo=)](https://braydenmeyer.me)
 [![](https://img.shields.io/badge/brayden--meyer.github.io-blue?logo=GitHub)](https://github.com/brayden-meyer/brayden-meyer.github.io)
 ![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
-![](https://img.shields.io/badge/CSS-grey?logo=CSS3)
+![](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
 ![](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript)
 ![](https://img.shields.io/badge/React-grey?logo=React)
