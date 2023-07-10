@@ -42,7 +42,6 @@
 ![](https://img.shields.io/badge/Next.js-grey?logo=Next.js)
 ![](https://img.shields.io/badge/React-grey?logo=React)
 ![](https://img.shields.io/badge/TypeScript-grey?logo=TypeScript)
-![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
 ![](https://img.shields.io/badge/Kotlin-grey?logo=Kotlin)
 ![](https://img.shields.io/badge/Swift-grey?logo=Swift)
 
