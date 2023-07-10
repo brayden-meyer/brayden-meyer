@@ -3,7 +3,7 @@
 
 <h3 align="center">Featured Projects</h3>
 
-#### 📷 Self-hosted photo library with AI image search
+#### 📷 *LocalPhoto*, a self-hosted photo library with AI image search
 [![](https://img.shields.io/badge/live%20demo-white?logo=)](https://try.local.photo)
 [![](https://img.shields.io/badge/photos-ff69b4?logo=GitHub)](https://github.com/brayden-meyer/photos)
 ![](https://img.shields.io/badge/Supabase-grey?logo=Supabase)
@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/C-grey?logo=C)
 ![](https://img.shields.io/badge/Selenium-grey?logo=Selenium)
 
-#### 🤖 "TC" automation and engagement software
+#### 🤖 Automation and engagement software for music
 [![](https://img.shields.io/badge/tc-red?logo=GitHub)](https://github.com/brayden-meyer/tc)
 ![](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript)
 [![](https://img.shields.io/badge/Node.js-grey?logo=Node.js)](https://nodejs.org)
