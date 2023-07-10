@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/Python-grey?logo=python&logoColor=4B8BBE)
 ![](https://img.shields.io/badge/SQLite-grey?logo=SQLite)
 ![](https://img.shields.io/badge/C-grey?logo=C)
-![](https://img.shields.io/badge/Vite-grey?logo=Vite&logoColor=9499FF)
 ![](https://img.shields.io/badge/Selenium-grey?logo=Selenium)
 
 #### 🤖 "TC" automation and engagement software
@@ -39,9 +38,9 @@
 ![](https://img.shields.io/badge/Supabase-grey?logo=Supabase)
 ![](https://img.shields.io/badge/Python-grey?logo=python&logoColor=4B8BBE)
 ![](https://img.shields.io/badge/Pytorch-grey?logo=Pytorch)
+![](https://img.shields.io/badge/TypeScript-grey?logo=TypeScript)
 ![](https://img.shields.io/badge/Next.js-grey?logo=Next.js)
 ![](https://img.shields.io/badge/React-grey?logo=React)
-![](https://img.shields.io/badge/TypeScript-grey?logo=TypeScript)
 ![](https://img.shields.io/badge/Kotlin-grey?logo=Kotlin)
 ![](https://img.shields.io/badge/Swift-grey?logo=Swift)
 
