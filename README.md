@@ -5,7 +5,7 @@
 
 #### 📷 *LocalPhoto*, a self-hosted photo library with AI image search
 [![](https://img.shields.io/badge/live%20demo-white?logo=)](https://try.local.photo)
-[![](https://img.shields.io/badge/photos-ff69b4?logo=GitHub)](https://github.com/brayden-meyer/photos)
+[![](https://img.shields.io/badge/localphoto-ff69b4?logo=GitHub)](https://github.com/localphoto)
 ![](https://img.shields.io/badge/Supabase-grey?logo=Supabase)
 ![](https://img.shields.io/badge/Python-grey?logo=python&logoColor=4B8BBE)
 ![](https://img.shields.io/badge/Pytorch-grey?logo=Pytorch)
