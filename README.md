@@ -20,7 +20,6 @@
 [![](https://img.shields.io/badge/molview-purple?logo=GitHub)](https://github.com/brayden-meyer/molview)
 ![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=1572B6)
-![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
 ![](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript)
 ![](https://img.shields.io/badge/React-grey?logo=React)
 ![](https://img.shields.io/badge/Python-grey?logo=python&logoColor=4B8BBE)
