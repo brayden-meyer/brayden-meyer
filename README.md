@@ -12,6 +12,7 @@
 
 #### ⚛️ *MolView*, a 3D molecule visualization web app
 [![](https://img.shields.io/badge/molview-purple?logo=GitHub)](https://github.com/brayden-meyer/molview)
+[![](https://img.shields.io/badge/live%20demo-white?logo=)](https://molview.net)
 ![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
@@ -34,6 +35,7 @@
 
 #### 📷 Self-hosted photo library with AI image search
 [![](https://img.shields.io/badge/photos-ff69b4?logo=GitHub)](https://github.com/brayden-meyer/photos)
+[![](https://img.shields.io/badge/live%20demo-white?logo=)](https://try.local.photo)
 ![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
