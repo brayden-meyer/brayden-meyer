@@ -1,5 +1,5 @@
 ### Hi there 👋
-## **🚀 Featured Projects**
+## **Featured Projects**
 
 
 ### 🌐 *LightWeb*, a lightweight desktop web browser
@@ -50,8 +50,8 @@
 ![](https://img.shields.io/badge/Pygame-grey)
 
 ### 👤 Personal portfolio website
-[![](https://img.shields.io/badge/live%20demo-white?logo=)](https://braydenmeyer.me)
-[![](https://img.shields.io/badge/brayden--meyer.github.io-blue?logo=GitHub)](https://github.com/brayden-meyer/brayden-meyer.github.io)
+[![](https://img.shields.io/badge/live%20demo-white?logo=)](https://braydenmeyer.dev)
+[![](https://img.shields.io/badge/portfolio-blue?logo=GitHub)](https://github.com/brayden-meyer/portfolio)
 ![](https://img.shields.io/badge/HTML-grey?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-grey?logo=CSS3&logoColor=1572B6)
 ![](https://img.shields.io/badge/Tailwind%20CSS-grey?logo=TailwindCSS)
